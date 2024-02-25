@@ -14,7 +14,7 @@ However, for the most up-to-date version of the game, visit the [Releases](https
 
 ## Reporting Bugs
 
-Your feedback is invaluable in making the game better. If you encounter any bugs or issues, please report them under the [Issues](https://github.com/yourusername/game-repo/issues) section. Be sure to include:
+Your feedback is invaluable in making the game better. If you encounter any bugs or issues, please report them under the [Issues](https://github.com/PavelZinchenko/event-horizon-frontier-builds/issues) section. Be sure to include:
 
 - A clear and descriptive title
 - Steps to reproduce the issue
