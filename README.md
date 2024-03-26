@@ -44,4 +44,4 @@ Stay connected and engage with other players through the communities on Discord 
 Everyone is welcome, and participation is encouraged!
 
 ## Spoiler
-![Spoiler](https://zipagames.com/download/spoiler.png)
+![Spoiler](https://zipagames.com/spoiler.php)
