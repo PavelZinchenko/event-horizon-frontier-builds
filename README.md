@@ -9,6 +9,7 @@ To get started with **Event Horizon - Frontier**, you have multiple options to d
 - [Google Play](https://play.google.com/store/apps/details?id=com.ZipasGames.Frontier) - for Android devices
 - [App Store](https://apps.apple.com/us/app/event-horizon-frontier/id1336417415) - for iOS devices
 - [Steam](https://store.steampowered.com/app/1103630/Event_Horizon__Frontier) - for PC
+- [itch.io] https://pavel-zinchenko.itch.io/frontier - free version without ads or in-app purchases for Android/PC
 
 However, for the most up-to-date version of the game, visit the [Releases](https://github.com/PavelZinchenko/event-horizon-frontier-builds/releases) page here on GitHub. This ensures you have the latest features, bug fixes, and improvements.
 
